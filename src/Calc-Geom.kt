@@ -28,7 +28,7 @@ class TipoCalc{
 
 fun main(){
     println("Bem-vindo!")
-    println("Para Começar digite o tipo de calculo ")
+    println("Para Começar digite o tipo de cálculo ")
     println("TS para Area Triangulo Escaleno")
     println("TI para Area Triangulo Isoceles")
     println("TE para Area Triangulo Equilatero ")

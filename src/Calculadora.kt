@@ -43,6 +43,6 @@ fun main() {
         }
     }
     else {
-        println("Um ou ambos os valores são inválidos!")
+        println("Um ou ambos os valores são invalidos!")
     }
 }
