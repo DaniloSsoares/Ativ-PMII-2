@@ -15,7 +15,7 @@ class Operadores{
  }
 
 fun main() {
-    println("Digite o valor para A")
+    println("Digite o  valor para A")
     val a= readLine()?.toIntOrNull()
     println("Digite o valor para B")
     val b= readLine()?.toIntOrNull()

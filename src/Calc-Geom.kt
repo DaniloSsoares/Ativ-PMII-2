@@ -63,7 +63,7 @@ fun main(){
         if (a != null && b != null ) {
             println("Resultado: ${operadores.AreaTrianIsos(a, b)}")
         } else {
-            println("Por favor, digite valores válidos para o que se pede.")
+            println("Por favor,  digite valores válidos para o que se pede.")
         }
     }
     else if(Operador == "TE" ){

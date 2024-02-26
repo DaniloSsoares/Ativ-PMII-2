@@ -24,7 +24,7 @@ fun calc(a:Int,b:Int, funcao: (Int, Int)-> Int):Int{
     return funcao(a,b)
 }
 fun main(){
-    println("Bem vindo!!")
+    println("Bem vindo!")
     println (calc(2,3,Operacoes()::somar ))
     println (calc(2,3, Operacoes()::sub))
     println (calc(2,3,Operacoes()::mult))
