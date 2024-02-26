@@ -11,6 +11,6 @@ fun ComTresLetras(nome:String): Boolean{
     return nome.length == 3
 }
 fun main(){
-    val nomes = listOf("Ana","Pedro","Biia","Gui","Rebeca")
+    val nomes = listOf("Ana","Pedro","Bia","Gui","Rebeca")
     println(filtrar(nomes, ::ComTresLetras))
 }

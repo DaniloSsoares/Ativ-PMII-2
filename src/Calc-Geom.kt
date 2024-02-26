@@ -33,7 +33,7 @@ fun main(){
     println("TI para Area Triangulo Isoceles")
     println("TE para Area Triangulo Equilatero ")
     println("AR para Area do Retângulo")
-    println("AC para Area do Circulo")
+    println("AC para Area do Círculo")
     println("AL para Area do Losangulo")
     println("AT para Area do Trapézio")
 

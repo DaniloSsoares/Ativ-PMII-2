@@ -21,7 +21,7 @@ fun main() {
     val b= readLine()?.toIntOrNull()
 
     if (a != null && b != null) {
-        println("Agora digite o tipo de calculo")
+        println("Agora digite o tipo de cálculo")
         println("+ para soma")
         println("- para subtrair")
         println("* para multiplicar")

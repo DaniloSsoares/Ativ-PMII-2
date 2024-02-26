@@ -12,7 +12,7 @@ fun Somar(a:Int, b:Int):Int{
 }
 fun main(){
     val resultado = executarComLog("Somar"){
-        Somar(4 , 5)
+        Somar(7 , 5)
     }
     println(resultado)
 }
