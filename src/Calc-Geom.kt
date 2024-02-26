@@ -37,7 +37,7 @@ fun main(){
     println("AL para Area do Losangulo")
     println("AT para Area do Trapézio")
 
-    var Operador= readLine()
+    val Operador= readLine()
     val operadores = TipoCalc()
 
     if(Operador == "TS" ){
